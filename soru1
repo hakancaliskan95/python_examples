@@ -1,0 +1,6 @@
+SORU-1
+Request data classında ilk olarak random user apisi base url e atanıp def __init__ metodunda base url e kaç tane istek atacağımızı count adlı değişkenle sağlıyoruz.
+
+Make request metodunda get ile istek atılıp response atanıp return ediliyor.
+Get location metodunda self parametresi ile requesti alıyor yield ise bütün resultların dönmesini beklemeden bize tek tek döndürüyor.
+Aynı şekilde get_login metodunda kullanıcının login bilgileri for döngüsü ve yield aracılığı ile alınıyor.
