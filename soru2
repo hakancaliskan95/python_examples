@@ -1,0 +1,2 @@
+SORU-2
+Error handler decorator ı gelen response boş veya hatalı gelmemesine göre yani ok olursa response u json a çevirip o response içindeki resultları almış olacak
